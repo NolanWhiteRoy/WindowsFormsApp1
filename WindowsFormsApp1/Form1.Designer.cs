@@ -56,7 +56,7 @@
             this.confettiGifPictureBox.TabIndex = 1;
             this.confettiGifPictureBox.TabStop = false;
             this.confettiGifPictureBox.Visible = false;
-            this.confettiGifPictureBox.Click += new System.EventHandler(this.confettiGifPictureBox_Click);
+            this.confettiGifPictureBox.Click += new System.EventHandler(this.label1_Click);
             // 
             // Form1
             // 

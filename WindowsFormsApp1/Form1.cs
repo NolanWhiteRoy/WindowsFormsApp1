@@ -137,8 +137,5 @@ namespace WindowsFormsApp1
 
             gHappyBirthdayLabel.DrawString("Run Again", arialFont, blackBrush, 0, 0);
         }
-        private void confettiGifPictureBox_Click(object sender, EventArgs e)
-        {
-        }
     }
 } 
